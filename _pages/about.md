@@ -23,9 +23,9 @@ Assistant Professor at The University of Puerto Rico, Río Piedras Campus.
 Software Engineering, Programming Languages and Deep Learning.
 
 # Contact:
-Email: [tatiana.castro1@upr.edu](mailto:tatiana.castro1@upr.edu)
-Department of Computer Science
-College of Natural Sciences
-University of Puerto Rico, Río Piedras Campus
-Office: C-170
+Email: [tatiana.castro1@upr.edu](mailto:tatiana.castro1@upr.edu)<br>
+Department of Computer Science<br>
+College of Natural Sciences<br>
+University of Puerto Rico, Río Piedras Campus<br>
+Office: C-170<br>
 Phone: (787)764-00 x. 88259

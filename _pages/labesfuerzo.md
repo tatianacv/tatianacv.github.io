@@ -12,7 +12,6 @@ Para Francis, cualquier persona que se esforzará en lo que deseaba podía alcan
 
 <center><img src="/images/francis_nombre.jpeg" width="500" height="100"></center>
 
-
 # Intereses de investigación
 
 Ingienería de Software, Lenguajes de Programación, Aplicaciones de software para el bien social, e Inteligencia Artificial.

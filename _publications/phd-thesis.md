@@ -7,7 +7,6 @@ excerpt: 'This dissertation addresses a significant knowledge gap in understandi
 date: 2025-09-30
 venue: 'PhD thesis, City University of New York (CUNY) Graduate Center, 365 5th Ave, New York, NY 10016'
 paperurl: 'http://academicworks.cuny.edu/gc_etds/6444'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Tatiana Castro Vélez. Towards Automated Evolution of Imperative Deep Learning Programs. PhD thesis, City University of New York (CUNY) Graduate Center, 365 5th Ave, New York, NY 10016, September 2025.'
 ---
 Software engineering (SE) is increasingly intersecting with data-centric domains such as machine learning (ML) and deep learning (DL). Similar to bugs in traditional software systems, defects can emerge in ML and DL systems. ML, including DL, systems are now widespread and rely on dynamic models defined by input data. Developers face the challenge of building dependable systems while addressing the demand for scalable software.
