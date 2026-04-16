@@ -24,6 +24,10 @@ Si eres un estudiante graduad@ interesad@ en trabajar conmigo, se puede comunica
 
 ## Estudiantes subgraduados
 
+### Presentes
+
+### Pasados
+
 - José Plaud, [LinkedIn](https://www.linkedin.com/in/jose-plaud/), Agosto a Diciembre 2025
     - Proyecto: Benchmarking Tool for Comparing Performance Before and After Automated Refactoring
 
